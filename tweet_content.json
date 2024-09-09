@@ -1,0 +1,28 @@
+{
+  "tweets": [
+   {
+        "content": "Hello World! This is my first automated tweet!🫧\n\nAutomated tweet #1 - powered by Selenium. ⭐️\n\n",
+        "schedule": {
+            "month": "September",
+            "day": "8",
+            "year": "2025",
+            "hour": "8",
+            "minute": "30",
+            "am_pm": "am"
+        },
+        "images": ["path/to/your/image/", "path/to/your/another/image/"]
+    },
+    {
+        "content": "Hello World! This is my first automated tweet!🫧\n\nAutomated tweet #2 - powered by Selenium. ⭐️\n\n",
+        "schedule": {
+            "month": "September",
+            "day": "8",
+            "year": "2025",
+            "hour": "9",
+            "minute": "30",
+            "am_pm": "am"
+        },
+        "images": ["path/to/your/image/", "path/to/your/another/image/"]
+    }
+  ]
+}
